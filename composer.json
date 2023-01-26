@@ -53,6 +53,8 @@
             "phpstan/extension-installer": false
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "GtmPlugin\\": "src/"
